@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body {
+	background: url(../img/fondo.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+}
+
+.loginbox {
+    margin: 30px auto;
+    border-radius: 30px;
+    background-color: #2e3191;;
+    color: white;
+    opacity: 0.85;
+  }
+
+  input[type="submit"] {
+    margin-top: 18px;
+  }
